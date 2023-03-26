@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['628xxx'] //Masukin nomor mu
-global.ownernomer = "628xxx" //Masukin nomor mu
-global.premium = ['628xxx'] //Masukin nomor mu
-global.namanya = 'NamaKamu' //Masukin nama mu
-global.fakename = '© NamaKamu' //Masukin nama mu
-global.botname = 'ᗷOT ᗰᗪ' //Masukin nama bot kamu
+global.owner = ['6283805582847'] //Masukin nomor mu
+global.ownernomer = "6283805582847" //Masukin nomor mu
+global.premium = ['6283805582847'] //Masukin nomor mu
+global.namanya = 'Haan`Sebelas' //Masukin nama mu
+global.fakename = '© HaanZ' //Masukin nama mu
+global.botname = 'HaanZzZ' //Masukin nama bot kamu
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'DhaniYo?' //Monggo kalau mau ubah
+global.author = 'HaanZzZ?' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
