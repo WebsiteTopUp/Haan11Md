@@ -6,9 +6,9 @@ exports.sewabot = (prefix, gayas) => {
 return `
 *Sewa Bot*
 
-${gayas} 1 Minggu: 15K
+${gayas} 1 Minggu: 7K
 ${gayas} 1 Bulan: 20K
-${gayas} Permanen: 25K
+${gayas} Permanen: -
 
 Jika ingin sewabot silakah
 Lanjut klik tombol Owner/All Qr
